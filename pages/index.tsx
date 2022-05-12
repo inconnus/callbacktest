@@ -10,7 +10,7 @@ const Home: NextPage = () => {
   }, [])
   return (
     <div className={styles.container}>
-
+      test
     </div>
   )
 }
