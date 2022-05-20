@@ -12,7 +12,7 @@ const Home: NextPage = () => {
   }, [router.query.status])
   return (
     <div className={styles.container}>
-      test
+      
     </div>
   )
 }
